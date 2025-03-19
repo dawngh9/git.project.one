@@ -1,6 +1,5 @@
 p {
-    color: blue;
-    font-weight: bold;
-    front-size: 2em
-  }
-  
+  color: blue;
+  font-weight: bold;
+  font-size: 2em; /* Fixed the typo */
+}
